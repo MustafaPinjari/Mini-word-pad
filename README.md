@@ -1,8 +1,8 @@
-# Online Text Editor
+# Mini-word-pad
 
 ## Project Overview
 
-This project is an Online Text Editor, providing a simple, user-friendly interface for editing text with various formatting options. It includes features like bold, superscript, subscript, lists, undo/redo, hyperlinks, text alignment, font customization, and color changes.
+This project is an Mini-word-pad, providing a simple, user-friendly interface for editing text with various formatting options. It includes features like bold, superscript, subscript, lists, undo/redo, hyperlinks, text alignment, font customization, and color changes.
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ The project consists of three main files:
 
 ## Installation
 
-To get started with the Online Text Editor, follow these steps:
+To get started with the Mini-word-pad, follow these steps:
 
 1. **Clone the repository**:
    ```bash
@@ -49,7 +49,7 @@ To get started with the Online Text Editor, follow these steps:
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd online-text-editor
+   cd Mini-word-pad
    ```
 
 3. **Open `index.html` in your web browser** to view and use the text editor.
@@ -71,7 +71,7 @@ To get started with the Online Text Editor, follow these steps:
 
 ## Contributing
 
-We welcome contributions to enhance the functionality and features of the Online Text Editor. To contribute:
+We welcome contributions to enhance the functionality and features of the Mini-word-pad. To contribute:
 
 1. **Fork the repository**.
 2. **Create a new branch** for your feature or bug fix:
@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for using the Online Text Editor! If you have any questions or feedback, feel free to open an issue on the [GitHub repository](https://github.com/MustafaPinjari/Mini-word-pad).
+Thank you for using the Mini-word-pad! If you have any questions or feedback, feel free to open an issue on the [GitHub repository](https://github.com/MustafaPinjari/Mini-word-pad).
